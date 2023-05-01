@@ -1,0 +1,5 @@
+p1 	thread
+p2 	mutex
+p3 	fork()
+p4 	pipe
+p5 	fifo
