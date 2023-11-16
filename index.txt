@@ -3,3 +3,7 @@ p2 	mutex
 p3 	fork()
 p4 	pipe
 p5 	fifo
+p6	Message queue
+p7	wait()
+p8	Signal
+p9	pthread_join()
